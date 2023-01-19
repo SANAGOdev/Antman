@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2022
 ** antman
 ** File description:
-** my put nbr
+** my_put_nbr.c
 */
 
 #include "my.h"

@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2022
 ** antman
 ** File description:
-** my strcmp
+** my_strcmp.c
 */
 
 #include "my.h"

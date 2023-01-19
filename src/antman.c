@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2022
 ** antman
 ** File description:
-** read.c
+** antman.c
 */
 
 #include "my.h"
@@ -15,6 +15,5 @@ int antman(int file_size, char **argv)
     printf("[%s]\n", clean);
     char *res = enum_letters(clean); // salutv
     printf("[%s]\n", res);
-    
     return 0;
 }

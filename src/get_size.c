@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** B-CPE-110-TLS-1-1-antman-mathieu.boschet
+** antman
 ** File description:
 ** get_size.c
 */

@@ -1,8 +1,8 @@
 /*
 ** EPITECH PROJECT, 2022
-** B-CPE-110-TLS-1-1-antman-mathieu.boschet
+** antman
 ** File description:
-** read.c
+** read_file.c
 */
 
 #include "my.h"

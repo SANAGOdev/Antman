@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2022
 ** antman
 ** File description:
-** my putchar.c
+** my_putchar.c
 */
 
 #include "my.h"

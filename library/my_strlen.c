@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2022
 ** antman
 ** File description:
-** my strlen
+** my_strlen.c
 */
 
 #include "my.h"
