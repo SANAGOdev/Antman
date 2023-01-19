@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2022
-** B-CPE-110-TLS-1-1-antman-mathieu.boschet
+** antman
 ** File description:
 ** read.c
 */
@@ -9,7 +9,12 @@
 
 int antman(int file_size, char **argv)
 {
-    char *content = read_file(file_size, argv);
-    printf("%s", content);
+    char *content = read_file(file_size, argv); // salut sa va
+    printf("[%s]\n", content);
+    char *clean = clean_string(content); // salutsava
+    printf("[%s]\n", clean);
+    char *res = enum_letters(clean); // salutv
+    printf("[%s]\n", res);
+    
     return 0;
 }
